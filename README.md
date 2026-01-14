@@ -11,11 +11,11 @@ I am a first-class Chemical Engineering graduate with strong research interests 
 - Participated in an introductory Data Analysis training program (2026) with core ventures limited
 - Topics covered:
   - Data concepts and structure
-  - Data cleaning fundamentals
+  - Data cleaning fundamentals using Excel
   - Exploratory data analysis
   - Introduction to analytical thinking
 ## Current Learning Focus
--Excel for data analysis
+-Python for data analysis
 - Data preprocessing and visualization
 - Machine learning fundamentals
 - Applying data science to energy and sustainability problems
